@@ -1,4 +1,6 @@
 # Python-Basics
 How to Basics of Python
 
-The first thing that will be touched upon is the calling of functions in Python to innovcate a certain response or action
+In this repository, you will get introduced to some of the basics of Python and how easy it is to use
+
+Created by Herman Hoffman
