@@ -1,5 +1,5 @@
 # Python-Basics
-How to Basics of Python
+The Basics of Python
 
 In this repository, you will get introduced to some of the basics of Python and how easy it is to use
 
